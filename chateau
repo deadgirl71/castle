@@ -8,7 +8,7 @@ var roomstuff = {"rooms":{
 
 "hall":{"rName":"Hall of Spirits","backgroundImage":"https://soi-chteau.hyperchat.com/hallofspiritsbackUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-chteau.hyperchat.com/hallofspiritspossible.jpg><br>Hall of Spirits<br></center>","roombottom":""},
 
-"throne":{"rName":"Throne Room","backgroundImage":"https://soi-chteau.hyperchat.com/throneroombackforsure.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: ##b6b6b6;}</style><center><img class='topImage' src=https://soi-chteau.hyperchat.com/thronetop.png><br>Our Throne Room<br></center>","roombottom":""},
+"throne":{"rName":"Throne Room","backgroundImage":"https://soi-chteau.hyperchat.com/throneroombackforsure.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #b6b6b6;}</style><center><img class='topImage' src=https://soi-chteau.hyperchat.com/thronetop.png><br>Our Throne Room<br></center>","roombottom":""},
 
 "bedroom":{"rName":"Guest Bedroom","backgroundImage":"https://soi-chteau.hyperchat.com/GUESTROOMBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=https://soi-chteau.hyperchat.com/Abedroomwithabalconyforhumansback.jpg><br>Guest Bedroom<br></center>","roombottom":""},
 
@@ -28,7 +28,7 @@ var roomstuff = {"rooms":{
 
 "library":{"rName":"The Library","backgroundImage":"https://soi-chteau.hyperchat.com/LIBRARYBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-chteau.hyperchat.com/LIBRARYTOPUSE.png><br>Library of Knowledge<br></center>","roombottom":""},
 
-"cemetery":{"rName":"Family Cemetery","backgroundImage":"https://soi-chteau.hyperchat.com/familycemeteryback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' https://soi-chteau.hyperchat.com/FamilyCemeterytop.jpg><br>Our Private Dungeon<br></center>","roombottom":""},
+"cemetery":{"rName":"Family Cemetery","backgroundImage":"https://soi-chteau.hyperchat.com/familycemeteryback.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-chteau.hyperchat.com/FamilyCemeterytop.jpg><br>Our Private Dungeon<br></center>","roombottom":""},
 
 "village":{"rName":"The Village","backgroundImage":"https://soi-chteau.hyperchat.com/VILLAGEBACKROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-chteau.hyperchat.com/villagetop.png><br>The Old Village<br></center>","roombottom":""},
 
