@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"chteau@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["entrance","main","hall","throne","bedroom","powder","nins","servants","dining","coffin","chapel","dungeon","ghoul","library","cemetery","village","park","slums","tower","maze"],"defaultView":"entrance"}
+var multiConfig = {"THISROOM":"chteau@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["entrance","main","hall","throne","bedroom","powder","nins","servants","dining","coffin","chapel","dungeon","ghoul","library","cemetery","village","park","slums","tower","maze"],"defaultView":"entrance"};
 
 var roomstuff = {"rooms":{
 
@@ -14,7 +14,7 @@ var roomstuff = {"rooms":{
 
 "powder":{"rName":"Powder Room","backgroundImage":"https://soi-chteau.hyperchat.com/POWDERROOMBACKUSETHIS.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/POWDERROOMTOPUSE.png"><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
 
-"nins":{"rName":"nin's room","backgroundImage":"https://soi-cen.hyperchat.com/ninsroombackcastle.jpgg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src="https://soi-cen.hyperchat.com/ninstop.jpg"><br>ninian's room<br></center>","roombottom":""},
+"nins":{"rName":"nin's room","backgroundImage":"https://soi-cen.hyperchat.com/ninsroombackcastle.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src="https://soi-cen.hyperchat.com/ninstop.jpg"><br>ninian's room<br></center>","roombottom":""},
 
 "servants":{"rName":"servants","backgroundImage":"https://soi-chteau.hyperchat.com/SERVEANTSQUARTERBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/SERVEANTSQUARTERTOPUSE.png"><br>Servant's Quarter<br></center>","roombottom":""},
 
@@ -42,4 +42,4 @@ var roomstuff = {"rooms":{
 
 "maze":{"rName":"The Maze","backgroundImage":"https://soi-chteau.hyperchat.com/MAZEGARDENBACKUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/mazegardentop.png"><br>The Maze Garden<br></center>","roombottom":""},
 
-}}
+}};
