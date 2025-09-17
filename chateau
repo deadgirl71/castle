@@ -14,6 +14,8 @@ var roomstuff = {"rooms":{
 
 "powder":{"rName":"Powder Room","backgroundImage":"https://soi-chteau.hyperchat.com/POWDERROOMBACKUSETHIS.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/POWDERROOMTOPUSE.png"><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
 
+"nins":{"rName":"nin's room","backgroundImage":"https://soi-cen.hyperchat.com/ninsroombackcastle.jpgg","chatleft":"","underchat":"","roomtop":"<style>body {color: #a3f0d0;}</style><center><img class='topImage' src="https://soi-cen.hyperchat.com/ninstop.jpg"><br>ninian's room<br></center>","roombottom":""},
+
 "servants":{"rName":"servants","backgroundImage":"https://soi-chteau.hyperchat.com/SERVEANTSQUARTERBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/SERVEANTSQUARTERTOPUSE.png"><br>Servant's Quarter<br></center>","roombottom":""},
 
 "dining":{"rName":"Dining Hall","backgroundImage":"https://soi-chteau.hyperchat.com/DININGHALLBACKUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/dininghalltop.png"><br>The Dining Room<br></center>","roombottom":""},
