@@ -125,21 +125,50 @@ var roomstuff = {
       "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/LIBRARYTOPUSE.png\"><br>Library of Knowledge<br></center>",
       "roombottom": ""
     },
-    "cemetery": {
-      "rName": "Family Cemetery",
-      "backgroundImage": "https://soi-chteau.hyperchat.com/familycemeteryback.png",
-      "chatleft": "",
-      "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/FamilyCemeterytop.jpg\"><br>Our Private Dungeon<br></center>",
-      "roombottom"
+   "cemetery": {
+  "rName": "Family Cemetery",
+  "backgroundImage": "https://soi-chteau.hyperchat.com/familycemeteryback.png",
+  "chatleft": "",
+  "underchat": "",
+  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/FamilyCemeterytop.jpg\"><br>Our Private Dungeon<br></center>",
+  "roombottom": ""
+},  // ← This comma was missing
 
-"village":{"rName":"The Village","backgroundImage":"https://soi-chteau.hyperchat.com/VILLAGEBACKROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/villagetop.png"><br>The Old Village<br></center>","roombottom":""},
+"village": {
+  "rName": "The Village",
+  "backgroundImage": "https://soi-chteau.hyperchat.com/VILLAGEBACKROUNDUSE.jpg",
+  "chatleft": "",
+  "underchat": "",
+  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/villagetop.png\"><br>The Old Village<br></center>",
+  "roombottom": ""
+},
 
-"park":{"rName":"The Park","backgroundImage":"https://soi-chteau.hyperchat.com/VILLAGEPARKBACKGROUNDUSE.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/outdoorparkforvillagetop.png"><br>The Village Park<br></center>","roombottom":""},
+"park": {
+  "rName": "The Park",
+  "backgroundImage": "https://soi-chteau.hyperchat.com/VILLAGEPARKBACKGROUNDUSE.png",
+  "chatleft": "",
+  "underchat": "",
+  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/outdoorparkforvillagetop.png\"><br>The Village Park<br></center>",
+  "roombottom": ""
+},
 
-"slums":{"rName":"The Slums","backgroundImage":"https://soi-chteau.hyperchat.com/VILLAGESLUMSBACKGROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/theslumsforthevillagetop.png"><br>The Village Slums<BR>Not a place<BR>you want to be<br></center>","roombottom":""},
+"slums": {
+  "rName": "The Slums",
+  "backgroundImage": "https://soi-chteau.hyperchat.com/VILLAGESLUMSBACKGROUNDUSE.jpg",
+  "chatleft": "",
+  "underchat": "",
+  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/theslumsforthevillagetop.png\"><br>The Village Slums<BR>Not a place<BR>you want to be<br></center>",
+  "roombottom": ""
+},
 
-"tower":{"rName":"The Tower","backgroundImage":"https://soi-chteau.hyperchat.com/towerbackuse.png","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/towertop.png"><br>The Terrified Tower<br></center>","roombottom":""},
+"tower": {
+  "rName": "The Tower",
+  "backgroundImage": "https://soi-chteau.hyperchat.com/towerbackuse.png",
+  "chatleft": "",
+  "underchat": "",
+  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/towertop.png\"><br>The Terrified Tower<br></center>",
+  "roombottom": ""
+},
 
 "maze": {
   "rName": "The Maze",
@@ -148,5 +177,5 @@ var roomstuff = {
   "underchat": "",
   "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/mazegardentop.png\"><br>The Maze Garden<br></center>",
   "roombottom": ""
-}
-
+}  // ← No comma here, since it's the last room
+}};  // ← These two close the "rooms" and "roomstuff" objects
