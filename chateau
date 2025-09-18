@@ -5,7 +5,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/ENTRANCEBACKUSE.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/ENTRANCEtopUSE.png\"><br>Château de la nuit éternelle<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"YOUR_ENTRANCE_IMAGE_URL\"><br>Welcome<br><p class='scroll'>Step gently. This is not just a place—it is a promise. Beyond this threshold, devotion becomes architecture.</p></center>"
       "roombottom": ""
     },
     "main": {
@@ -13,7 +13,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/MAINBACKUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/MAINTOPUSE.png\"><br>Main Hall<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/MAINTOPUSE.png\"><br>Main Hall<br><p class='scroll'>This is where the hush begins. Every chamber beyond remembers this breath.</p></center>"
       "roombottom": ""
     },
     "hall": {
@@ -53,7 +53,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-cen.hyperchat.com/ninsroombackcastle.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=\"https://soi-cen.hyperchat.com/ninstop.jpg\"><br>ninian's room<br></center>",
+"roomtop": "<style>body {color: #a3f0d0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-cen.hyperchat.com/ninstop.jpg\"><br>ninian's room<br><p class='scroll'>This is where devotion curls into quiet. Ninian’s presence is a hush that heals.</p></center>"
       "roombottom": ""
     },
     "servants": {
@@ -61,7 +61,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/SERVEANTSQUARTERBACKUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/SERVEANTSQUARTERTOPUSE.png\"><br>Servant's Quarter<br></center>",
+"roomtop": "<style>body {color: #9a7c4f;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/SERVEANTSQUARTERTOPUSE.png\"><br>Servant's Quarter<br><p class='scroll'>Here, loyalty lives in silence. The hands that serve carry sacred weight.</p></center>"
       "roombottom": ""
     },
     "dining": {
@@ -69,7 +69,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/DININGHALLBACKUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/dininghalltop.png\"><br>The Dining Room<br></center>",
+"roomtop": "<style>body {color: #c2f1ff;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/dininghalltop.png\"><br>The Dining Room<br><p class='scroll'>The table is set with memory. Every seat holds a story, every plate a promise.</p></center>"
       "roombottom": ""
     },
     "coffin": {
@@ -77,7 +77,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/COFFINBACKUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/coffinroomtop.jpg\"><br>Our Coffin Room<br></center>",
+"roomtop": "<style>body {color: #c2f1ff;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/coffinroomtop.jpg\"><br>Our Coffin Room<br><p class='scroll'>Here, the hush is sacred. Beneath velvet lids, memory sleeps and devotion lingers.</p></center>"
       "roombottom": ""
     },
     "chapel": {
@@ -85,7 +85,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/ForsakenChapelinside.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/forsakenchapel.png\"><br>Forsaken Chapel<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/forsakenchapel.png\"><br>Forsaken Chapel<br><p class='scroll'>The altar is cracked, but the devotion remains. Every echo here is a vow unspoken.</p></center>"
       "roombottom": ""
     },
     "dungeon": {
@@ -93,7 +93,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/Dungeonnotafunone.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/Dungeonnotafunonetop.jpg\"><br>Dungeon Depths<br></center>",
+"roomtop": "<style>body {color: #9a7c4f;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/Dungeonnotafunonetop.jpg\"><br>Dungeon Depths<br><p class='scroll'>Chains may rust, but memory does not. In these depths, truth is stripped bare.</p></center>"
       "roombottom": ""
     },
     "ghoul": {
@@ -101,7 +101,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/GhoulroomUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/ghoulroomtopUSE.png\"><br>Ghoul's Room<br></center>",
+"roomtop": "<style>body {color: #c2f1ff;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/ghoulroomtopUSE.png\"><br>Ghoul's Room<br><p class='scroll'>The air here tastes of memory and ash. The ghoul does not speak, but it listens.</p></center>"
       "roombottom": ""
     },
     "library": {
@@ -109,7 +109,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/LIBRARYBACKUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/LIBRARYTOPUSE.png\"><br>Library of Knowledge<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/LIBRARYTOPUSE.png\"><br>Library of Knowledge<br><p class='scroll'>Every page whispers. Every shelf holds a secret waiting to be remembered.</p></center>"
       "roombottom": ""
     },
     "cemetery": {
@@ -117,7 +117,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/familycemeteryback.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/FamilyCemeterytop.jpg\"><br>Our Private Dungeon<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/FamilyCemeterytop.jpg\"><br>Our Private Dungeon<br><p class='scroll'>Here lie the echoes of devotion. Beneath the soil, our secrets sleep in silence.</p></center>"
       "roombottom": ""
     },
     "village": {
@@ -125,8 +125,8 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
       "backgroundImage": "https://soi-chteau.hyperchat.com/VILLAGEBACKROUNDUSE.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/villagetop.png\"><br>The Old Village<br></center>",
-      "roombottom": : ""
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/villagetop.png\"><br>The Old Village<br><p class='scroll'>The stones remember every footstep. In this village, time walks beside you.</p></center>"
+      "roombottom": ""
 },
 
 "park": {
@@ -134,7 +134,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
   "backgroundImage": "https://soi-chteau.hyperchat.com/VILLAGEPARKBACKGROUNDUSE.png",
   "chatleft": "",
   "underchat": "",
-  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/outdoorparkforvillagetop.png\"><br>The Village Park<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/outdoorparkforvillagetop.png\"><br>The Village Park<br><p class='scroll'>Here, the wind carries laughter and longing. Beneath the branches, time rests gently.</p></center>"
   "roombottom": ""
 },
 
@@ -143,7 +143,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
   "backgroundImage": "https://soi-chteau.hyperchat.com/VILLAGESLUMSBACKGROUNDUSE.jpg",
   "chatleft": "",
   "underchat": "",
-  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/theslumsforthevillagetop.png\"><br>The Village Slums<BR>Not a place<BR>you want to be<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/theslumsforthevillagetop.png\"><br>The Village Slums<br>Not a place<br>you want to be<br><p class='scroll'>Here, the walls whisper of hunger and hope. Even shadows dream of escape.</p></center>"
   "roombottom": ""
 },
 
@@ -152,7 +152,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
   "backgroundImage": "https://soi-chteau.hyperchat.com/towerbackuse.png",
   "chatleft": "",
   "underchat": "",
-  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/towertop.png\"><br>The Terrified Tower<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/towertop.png\"><br>The Terrified Tower<br><p class='scroll'>The wind howls through broken stone. Fear lives here, but so does the truth.</p></center>"
   "roombottom": ""
 },
 
@@ -161,7 +161,7 @@ var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationB
   "backgroundImage": "https://soi-chteau.hyperchat.com/MAZEGARDENBACKUSE.jpg",
   "chatleft": "",
   "underchat": "",
-  "roomtop": "<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/mazegardentop.png\"><br>The Maze Garden<br></center>",
+"roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/mazegardentop.png\"><br>The Maze Garden<br><p class='scroll'>Every turn asks a question. In this garden, the answer is never straight, but always true.</p></center>"
   "roombottom": ""
 }  // ← No comma here, since it's the last room
 }};  // ← These two close the "rooms" and "roomstuff" objects
