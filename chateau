@@ -1,4 +1,4 @@
-var roomstuff = {
+var multiConfig = { "THISROOM": "chteau@soi", "locationColor": "red", "locationBackground": "green", "currentView": "", "viewList": [ "entrance", "main", "hall", "throne", "bedroom", "powder", "nins", "servants", "dining", "coffin", "chapel", "dungeon", "ghoul", "library", "cemetery", "village", "park", "slums", "tower", "maze" ], "defaultView": "entrance" };var roomstuff = {
   "rooms": {
     "entrance": {
       "rName": "Entrance",
