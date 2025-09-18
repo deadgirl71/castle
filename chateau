@@ -102,26 +102,28 @@ var roomstuff = {
       "roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\\\"https://soi-chteau.hyperchat.com/forsakenchapel.png\\\"><br>Forsaken Chapel<br><p class='scroll'>The altar is cracked, but the devotion remains. Every echo here is a vow unspoken.</p></center>",
       "roombottom": ""
     },
-    "dungeon": {
-      "rName": "Dungeon",
-      "backgroundImage": "https://soi-chteau.hyperchat.com/Dungeonnotafunone.jpg",
-      "chatleft": "",
-      "underchat": "",
-      "roomtop": "<style>body {color: #9a7c4f;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\\\"https://soi
-    "ghoul": {
-      "rName": "Ghoul's Room",
-      "backgroundImage": "https://soi-chteau.hyperchat.com/GhoulroomUSE.png",
-      "chatleft": "",
-      "underchat": "",
-"roomtop": "<style>body {color: #c2f1ff;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/ghoulroomtopUSE.png\"><br>Ghoul's Room<br><p class='scroll'>The air here tastes of memory and ash. The ghoul does not speak, but it listens.</p></center>"
-      "roombottom": ""
-    },
-  "library": {
+ "dungeon": {
+  "rName": "Dungeon",
+  "backgroundImage": "https://soi-chteau.hyperchat.com/Dungeonnotafunone.jpg",
+  "chatleft": "",
+  "underchat": "",
+  "roomtop": "<style>body {color: #9a7c4f;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\\\"https://soi-chteau.hyperchat.com/Dungeonnotafunonetop.jpg\\\"><br>Dungeon Depths<br><p class='scroll'>Chains may rust, but memory does not. In these depths, truth is stripped bare.</p></center>",
+  "roombottom": ""
+},
+     "ghoul": {
+  "rName": "Ghoul's Room",
+  "backgroundImage": "https://soi-chteau.hyperchat.com/GhoulroomUSE.png",
+  "chatleft": "",
+  "underchat": "",
+  "roomtop": "<style>body {color: #c2f1ff;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\\\"https://soi-chteau.hyperchat.com/ghoulroomtopUSE.png\\\"><br>Ghoul's Room<br><p class='scroll'>The air here tastes of memory and ash. The ghoul does not speak, but it listens.</p></center>",
+  "roombottom": ""
+},
+"library": {
   "rName": "The Library",
   "backgroundImage": "https://soi-chteau.hyperchat.com/LIBRARYBACKUSE.png",
   "chatleft": "",
   "underchat": "",
-  "roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/LIBRARYTOPUSE.png\"><br>Library of Knowledge<br><p class='scroll'>Every page whispers. Every shelf holds a secret waiting to be remembered.</p></center>",
+  "roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\\\"https://soi-chteau.hyperchat.com/LIBRARYTOPUSE.png\\\"><br>Library of Knowledge<br><p class='scroll'>Every page whispers. Every shelf holds a secret waiting to be remembered.</p></center>",
   "roombottom": ""
 },
 "cemetery": {
