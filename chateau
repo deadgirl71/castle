@@ -14,7 +14,7 @@ var roomstuff = {"rooms":{
 
 "powder":{"rName":"her Powder Room","backgroundImage":"https://soi-cen.hyperchat.com/ldgpowderroom5background.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/ldgpowderroomtopUSE.jpg><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
 
-"nins": { "rName": "nin's room", "backgroundImage": "https://soi-cen.hyperchat.com/ninsroombackcastle.jpg", "chatleft": "", "underchat": "", "roomtop": "<style>body {color: #a3f0d0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-cen.hyperchat.com/ninstop.jpg\"><br>ninian's room<br><p class='scroll'>This is where devotion curls into quiet. Ninian’s presence is a hush that heals.</p></center>" "roombottom": "" },
+"nins": { "rName": "nin's room", "backgroundImage": "https://soi-cen.hyperchat.com/ninsroombackcastle.jpg", "chatleft": "", "underchat": "", "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=\"https://soi-cen.hyperchat.com/ninstop.jpg\"><br>ninian's room<br><p class='scroll'>This is where devotion curls into quiet. Ninian’s presence is a hush that heals.</p></center>" "roombottom": "" },
 
 "servants":{"rName":"servants quaters","backgroundImage":"https://soi-cen.hyperchat.com/servantBACKGROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/servantstopUSE.jpg><br>The Servant's Quarters<br></center>","roombottom":""},
 
