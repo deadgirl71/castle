@@ -1,4 +1,3 @@
-<script type="text/javascript">
 var multiConfig = {
   "THISROOM": "chteau@soi",
   "locationColor": "yellow",
@@ -12,8 +11,6 @@ var multiConfig = {
   "defaultView": "entrance"
 };
 
-var roomstuff = {
-  "rooms": {
     "entrance": {
       "rName": "Entrance",
       "backgroundImage": "https://soi-chteau.hyperchat.com/ENTRANCEBACKUSE.jpg",
