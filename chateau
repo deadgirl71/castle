@@ -10,13 +10,14 @@ var multiConfig = {
   ],
   "defaultView": "entrance"
 };
-
+var roomstuff = {
+  "rooms": {
     "entrance": {
       "rName": "Entrance",
       "backgroundImage": "https://soi-chteau.hyperchat.com/ENTRANCEBACKUSE.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/ENTRANCETOPUSE.jpg"><br>Welcome<br><p class='scroll'>Step gently. This is not just a place—it is a promise. Beyond this threshold, devotion becomes architecture.</p></center>",
+      "roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/ENTRANCETOPUSE.jpg\"><br>Welcome<br><p class='scroll'>Step gently. This is not just a place—it is a promise. Beyond this threshold, devotion becomes architecture.</p></center>",
       "roombottom": ""
     },
     "main": {
@@ -24,7 +25,7 @@ var multiConfig = {
       "backgroundImage": "https://soi-chteau.hyperchat.com/MAINBACKUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/MAINTOPUSE.png"><br>Main Hall<br><p class='scroll'>This is where the hush begins. Every chamber beyond remembers this breath.</p></center>",
+      "roomtop": "<style>body {color: #c8b4b0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/MAINTOPUSE.png\"><br>Main Hall<br><p class='scroll'>This is where the hush begins. Every chamber beyond remembers this breath.</p></center>",
       "roombottom": ""
     },
     "hall": {
@@ -32,7 +33,7 @@ var multiConfig = {
       "backgroundImage": "https://soi-chteau.hyperchat.com/hallofspiritsbackUSE.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/hallofspiritspossible.jpg"><br>Hall of Spirits<br></center>",
+      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/hallofspiritspossible.jpg\"><br>Hall of Spirits<br></center>",
       "roombottom": ""
     },
     "throne": {
@@ -40,7 +41,7 @@ var multiConfig = {
       "backgroundImage": "https://soi-chteau.hyperchat.com/throneroombackforsure.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #b6b6b6;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/thronetop.png"><br>Our Throne Room<br></center>",
+      "roomtop": "<style>body {color: #b6b6b6;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/thronetop.png\"><br>Our Throne Room<br></center>",
       "roombottom": ""
     },
     "bedroom": {
@@ -48,7 +49,7 @@ var multiConfig = {
       "backgroundImage": "https://soi-chteau.hyperchat.com/GUESTROOMBACKUSE.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/Abedroomwithabalconyforhumansback.jpg"><br>Guest Bedroom<br></center>",
+      "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/Abedroomwithabalconyforhumansback.jpg\"><br>Guest Bedroom<br></center>",
       "roombottom": ""
     },
     "powder": {
@@ -56,7 +57,7 @@ var multiConfig = {
       "backgroundImage": "https://soi-chteau.hyperchat.com/POWDERROOMBACKUSETHIS.png",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src="https://soi-chteau.hyperchat.com/POWDERROOMTOPUSE.png"><br>deadgirl{D}'s Powder Room<br></center>",
+      "roomtop": "<style>body {color: #a3f0d0;}</style><center><img class='topImage' src=\"https://soi-chteau.hyperchat.com/POWDERROOMTOPUSE.png\"><br>deadgirl{D}'s Powder Room<br></center>",
       "roombottom": ""
     },
     "nins": {
@@ -64,9 +65,9 @@ var multiConfig = {
       "backgroundImage": "https://soi-cen.hyperchat.com/ninsroombackcastle.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<style>body {color: #a3f0d0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src="https://soi-cen.hyperchat.com/ninstop.jpg"><br>ninian's room<br><p class='scroll'>This is where devotion curls into quiet. Ninian’s presence is a hush that heals.</p></center>",
+      "roomtop": "<style>body {color: #a3f0d0;} .scroll {font-style: italic; font-size: 0.9em; opacity: 0.85;}</style><center><img class='topImage' src=\"https://soi-cen.hyperchat.com/ninstop.jpg\"><br>ninian's room<br><p class='scroll'>This is where devotion curls into quiet. Ninian’s presence is a hush that heals.</p></center>",
       "roombottom": ""
-    },
+    }
     "servants": {
       "rName": "servants",
       "backgroundImage": "https://soi-chteau.hyperchat.com/SERVEANTSQUARTERBACKUSE.png",
