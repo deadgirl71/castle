@@ -1,4 +1,4 @@
-var multiConfig = {"THISROOM":"cen@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["entrance","main","spirits","throne","guest","powder","nins","servants","dining","coffin","chapel","dungeon","ghoul","library","cemetery","village","park","slums","tower","maze"],"defaultView":"entrance"}
+var multiConfig = {"THISROOM":"cen@soi","locationColor":"red","locationBackground":"green","currentView":"","viewList":["entrance","main","spirits","throne","guest","powder","eylssa","servants","dining","coffin","chapel","dungeon","ghoul","library","cemetery","village","park","slums","tower","maze"],"defaultView":"entrance"}
 
 var roomstuff = {"rooms":{
 
@@ -14,7 +14,7 @@ var roomstuff = {"rooms":{
 
 "powder":{"rName":"her Powder Room","backgroundImage":"https://soi-cen.hyperchat.com/ldgpowderroom5background.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/ldgpowderroomtopUSE.jpg><br>deadgirl{D}'s Powder Room<br></center>","roombottom":""},
 
-"nins":{"rName":"nin's room","backgroundImage":"https://soi-cen.hyperchat.com/ninsroombackcastle.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/ninstop.jpg><br>nin's room<br></center>","roombottom":""},
+"eylssa":{"rName":"nin's room","backgroundImage":"https://soi-cen.hyperchat.com/ninsroombackcastle.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/eylssasroomtop.png><br>nin's room<br></center>","roombottom":""},
 
 "servants":{"rName":"servants quaters","backgroundImage":"https://soi-cen.hyperchat.com/servantBACKGROUNDUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-cen.hyperchat.com/servantstopUSE.jpg><br>The Servant's Quarters<br></center>","roombottom":""},
 
